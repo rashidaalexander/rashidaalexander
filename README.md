@@ -30,20 +30,71 @@
   <li>🏴‍☠️ <b>Application Security</b>: authentication & authorization flaws, multi-tenant SaaS risk, secure design reviews</li>
   <li>🏴‍☠️ <b>Cloud Security</b>: identity-first defense, control-plane visibility, logging & monitoring strategy</li>
   <li>🏴‍☠️ <b>Security Research</b>: vulnerability analysis and responsible disclosure across production platforms</li>
-  <li>🏴‍☠️ <b>Governance</b>: RoE, safety & deconfliction, evidence handling, remediation verification</li>
+  <li>🏴‍☠️ <b>Governance & Risk</b>: RoE, safety & deconfliction, evidence handling, remediation verification</li>
 </ul>
 
 <hr/>
 
-<h2>🏴 Certifications (Selected)</h2>
-<p>
-  <img src="https://img.shields.io/badge/Fortinet-FC1D25?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20AZ--500-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk%20Search%20Expert-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISC2%20CC-0033A0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISC2%20SSCP-0033A0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+<h2>👥 Community, Policy & Global Security</h2>
+
+<ul>
+  <li>🏴‍☠️ Member, <b>OWASP Foundation</b> — application security community and standards</li>
+  <li>🏴‍☠️ Contributor, <b>UN IGF Policy Network on Cybersecurity & AI</b> — cybersecurity, AI governance, risk frameworks</li>
+  <li>🏴‍☠️ Member, <b>United Nations</b> — technology, inclusion, sustainable digital transformation</li>
+  <li>🏴‍☠️ Member, <b>Rewriting the Code</b> — mentorship & professional development</li>
+  <li>🏴‍☠️ Member, <b>National Cybersecurity Student Association</b> — awareness, education, community discussions</li>
+  <li>🏴‍☠️ Volunteer, <b>Croix-Rouge Française</b> — emergency readiness, coordination, community outreach</li>
+</ul>
+
+<hr/>
+
+<h2>🏴 Certifications & Training (Full)</h2>
+
+<h3>🏴 Red Team Leaders</h3>
+<ul>
+  <li>Certified Red Team Operations Management <b>(CRTOM)</b></li>
+  <li>Cyber Security Architecture v1</li>
+  <li>OpSec & Anonymity for Red Teams</li>
+  <li>Purple Team – Active Directory & AzureAD v1</li>
+</ul>
+
+<h3>🏴 Fortinet</h3>
+<ul>
+  <li>Fortinet Network Security</li>
+  <li>FortiGate Administrator</li>
+</ul>
+
+<h3>🏴 Microsoft</h3>
+<ul>
+  <li>Microsoft Azure Security Engineer Associate <b>(AZ-500)</b></li>
+  <li>Computers and Operating Systems and Security</li>
+</ul>
+
+<h3>🏴 Google</h3>
+<ul>
+  <li>Google Cybersecurity</li>
+  <li>Technical Support Fundamentals</li>
+</ul>
+
+<h3>🏴 Splunk</h3>
+<ul>
+  <li>Splunk Search Expert</li>
+</ul>
+
+<h3>🏴 Cisco</h3>
+<ul>
+  <li>Certified Ethical Hacker <b>(CEH – Cisco)</b></li>
+  <li>Network Security</li>
+</ul>
+
+<h3>🏴 ISC2</h3>
+<ul>
+  <li>Certified in Cybersecurity <b>(CC)</b></li>
+  <li>Systems Security Certified Practitioner <b>(SSCP)</b></li>
+  <li>Systems and Application Security</li>
+  <li>Security Principles</li>
+  <li>Security: Aligning Asset and Risk Management</li>
+</ul>
 
 <hr/>
 
@@ -64,7 +115,7 @@
 <ul>
   <li>ATT&CK → telemetry → detection → response → <b>retest loops</b></li>
   <li>Detection quality over alert volume</li>
-  <li>Security research with strong evidence and responsible disclosure</li>
+  <li>Bridging technical security with governance, risk, and real-world impact</li>
 </ul>
 
 <hr/>
