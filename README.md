@@ -23,27 +23,27 @@
 
 <hr/>
 
-<h2>📁 What I do</h2>
+<h2>🏴 What I do</h2>
 
 <ul>
-  <li>🏴‍☠️ <b>Purple Team</b>: validate detections and response through threat-led, evidence-based testing</li>
-  <li>🏴‍☠️ <b>Application Security</b>: authentication & authorization flaws, multi-tenant SaaS risk, secure design reviews</li>
-  <li>🏴‍☠️ <b>Cloud Security</b>: identity-first defense, control-plane visibility, logging & monitoring strategy</li>
-  <li>🏴‍☠️ <b>Security Research</b>: vulnerability analysis and responsible disclosure across production platforms</li>
-  <li>🏴‍☠️ <b>Governance & Risk</b>: RoE, safety & deconfliction, evidence handling, remediation verification</li>
+  <li> <b>Purple Team</b>: validate detections and response through threat-led, evidence-based testing</li>
+  <li> <b>Application Security</b>: authentication & authorization flaws, multi-tenant SaaS risk, secure design reviews</li>
+  <li> <b>Cloud Security</b>: identity-first defense, control-plane visibility, logging & monitoring strategy</li>
+  <li> <b>Security Research</b>: vulnerability analysis and responsible disclosure across production platforms</li>
+  <li> <b>Governance & Risk</b>: RoE, safety & deconfliction, evidence handling, remediation verification</li>
 </ul>
 
 <hr/>
 
-<h2>👥 Community, Policy & Global Security</h2>
+<h2>🏴 Community, Policy & Global Security</h2>
 
 <ul>
-  <li>🏴‍☠️ Member, <b>OWASP Foundation</b> — application security community and standards</li>
-  <li>🏴‍☠️ Contributor, <b>UN IGF Policy Network on Cybersecurity & AI</b> — cybersecurity, AI governance, risk frameworks</li>
-  <li>🏴‍☠️ Member, <b>United Nations</b> — technology, inclusion, sustainable digital transformation</li>
-  <li>🏴‍☠️ Member, <b>Rewriting the Code</b> — mentorship & professional development</li>
-  <li>🏴‍☠️ Member, <b>National Cybersecurity Student Association</b> — awareness, education, community discussions</li>
-  <li>🏴‍☠️ Volunteer, <b>Croix-Rouge Française</b> — emergency readiness, coordination, community outreach</li>
+  <li> Member, <b>OWASP Foundation</b> — application security community and standards</li>
+  <li> Contributor, <b>UN IGF Policy Network on Cybersecurity & AI</b> — cybersecurity, AI governance, risk frameworks</li>
+  <li> Member, <b>United Nations</b> — technology, inclusion, sustainable digital transformation</li>
+  <li> Member, <b>Rewriting the Code</b> — mentorship & professional development</li>
+  <li> Member, <b>National Cybersecurity Student Association</b> — awareness, education, community discussions</li>
+  <li> Volunteer, <b>Croix-Rouge Française</b> — emergency readiness, coordination, community outreach</li>
 </ul>
 
 <hr/>
