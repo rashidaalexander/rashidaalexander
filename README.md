@@ -1,127 +1,126 @@
-<!-- =========================
-     RASHIDA // PURPLE TEAM SIGNAL
-     One-file Profile README
-========================== -->
-
+<!-- =========================================
+     RASHIDA ALEXANDER // PROFILE README
+========================================== -->
 <h1 align="center">Hi 👋🏽, I'm Rashida</h1>
 <p align="center">
-  Purple Team • Security Research • AppSec • Cloud Security
+  AI Security • Purple Teaming • AppSec • Cloud Governance • Detection Engineering
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=650&color=8B5CF6&center=true&vCenter=true&width=820&lines=Purple+Team+mindset%3A+break+it+%E2%86%92+detect+it+%E2%86%92+fix+it;Threat-led+validation+%7C+Detection+Engineering;Application+Security+%7C+AuthZ+%7C+Multi-tenant+SaaS;Cloud+Security+%7C+Governance+%7C+Retest+discipline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=700&center=true&vCenter=true&multiline=false&width=950&height=60&color=FF0080&lines=Researching%2C+building%2C+breaking%2C+learning%2C+repeating;AI+Security+%7C+Purple+Teaming+%7C+Detection+Engineering;Threat-led+validation+%7C+Cloud+Governance+%7C+AppSec;Exploring+AI+agents%2C+security+systems%2C+and+resilient+engineering;Learning+fast+%7C+Building+constantly+%7C+Improving+daily" />
 </p>
-
 <p align="center">
-  <a href="https://fr.linkedin.com/in/rashida-alexander-16127719b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rashida%20Alexander-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/Rashida-ALEXANDER/full/qENRLZv" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Open-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://fr.linkedin.com/in/rashida-alexander-16127719b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rashida%20Alexander-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/Rashida-ALEXANDER/full/qENRLZv" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Open-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
 <hr/>
-
-<h2>🏴 What I do</h2>
-
+<h2>🏴 About</h2>
+<p>
+I’m focused on AI security, application security, cloud governance, and threat-led validation.
+</p>
+<p>
+My work sits at the intersection of security engineering, adversarial testing, governance, and modern AI systems.
+</p>
 <ul>
-  <li> <b>Purple Team</b>: validate detections and response through threat-led, evidence-based testing</li>
-  <li> <b>Application Security</b>: authentication & authorization flaws, multi-tenant SaaS risk, secure design reviews</li>
-  <li> <b>Cloud Security</b>: identity-first defense, control-plane visibility, logging & monitoring strategy</li>
-  <li> <b>Security Research</b>: vulnerability analysis and responsible disclosure across production platforms</li>
-  <li> <b>Governance & Risk</b>: RoE, safety & deconfliction, evidence handling, remediation verification</li>
+  <li>AI agent security and evaluation</li>
+  <li>Application security and secure architecture</li>
+  <li>Detection engineering and adversarial validation</li>
+  <li>Cloud security and identity-first defense</li>
+  <li>Security research and offensive/defensive workflows</li>
 </ul>
-
 <hr/>
-
-<h2>🏴 Community, Policy & Global Security</h2>
-
+<h2>🏴 Featured Projects</h2>
 <ul>
-  <li> Member, <b>OWASP Foundation</b> — application security community and standards</li>
-  <li> Contributor, <b>UN IGF Policy Network on Cybersecurity & AI</b> — cybersecurity, AI governance, risk frameworks</li>
-  <li> Member, <b>United Nations</b> — technology, inclusion, sustainable digital transformation</li>
-  <li> Member, <b>Rewriting the Code</b> — mentorship & professional development</li>
-  <li> Member, <b>National Cybersecurity Student Association</b> — awareness, education, community discussions</li>
-  <li> Volunteer, <b>Croix-Rouge Française</b> — emergency readiness, coordination, community outreach</li>
+  <li>
+    <b>Senior Agent Competencies</b><br/>
+    Open-source competency framework and slash-command workflow system designed to make AI coding agents operate like senior software and cybersecurity engineers.
+  </li>
+  <br/>
+  <li>
+    <b>LocalMind Agent</b><br/>
+    Rust-based local-first AI assistant with native desktop + CLI support, model-agnostic providers, workflow tooling, and local model integrations.
+  </li>
+  <br/>
+  <li>
+    <b>AI Security Eval Lab</b><br/>
+    Experimental environment for prompt injection testing, LLM evaluation workflows, agent security research, and adversarial AI validation.
+  </li>
+  <br/>
+  <li>
+    <b>ReconForge</b><br/>
+    Security reconnaissance and posture-analysis toolkit focused on visibility, reporting, and offensive research workflows.
+  </li>
 </ul>
-
 <hr/>
-
-<h2>🏴 Certifications & Training (Full)</h2>
-
-<h3>🏴 Red Team Leaders</h3>
+<h2>🏴 What I Work On</h2>
 <ul>
-  <li>Certified Red Team Operations Management <b>(CRTOM)</b></li>
-  <li>Cyber Security Architecture v1</li>
-  <li>OpSec & Anonymity for Red Teams</li>
-  <li>Purple Team – Active Directory & AzureAD v1</li>
+  <li>
+    <b>Purple Teaming</b><br/>
+    ATT&CK-driven validation, telemetry analysis, detection testing, response validation, and retest workflows.
+  </li>
+  <br/>
+  <li>
+    <b>Application Security</b><br/>
+    Authentication & authorization security, API security, SaaS risk, and secure design reviews.
+  </li>
+  <br/>
+  <li>
+    <b>Cloud Security</b><br/>
+    Identity-first defense, governance strategy, logging visibility, and cloud control-plane security.
+  </li>
+  <br/>
+  <li>
+    <b>Security Research</b><br/>
+    Vulnerability analysis, adversarial testing, AI security experimentation, and responsible disclosure.
+  </li>
+  <br/>
+  <li>
+    <b>Governance & Risk</b><br/>
+    Risk evaluation, remediation validation, security operations coordination, and security program alignment.
+  </li>
 </ul>
-
-<h3>🏴 Fortinet</h3>
-<ul>
-  <li>Fortinet Network Security</li>
-  <li>FortiGate Administrator</li>
-</ul>
-
-<h3>🏴 Microsoft</h3>
-<ul>
-  <li>Microsoft Azure Security Engineer Associate <b>(AZ-500)</b></li>
-  <li>Computers and Operating Systems and Security</li>
-</ul>
-
-<h3>🏴 Google</h3>
-<ul>
-  <li>Google Cybersecurity</li>
-  <li>Technical Support Fundamentals</li>
-</ul>
-
-<h3>🏴 Splunk</h3>
-<ul>
-  <li>Splunk Search Expert</li>
-</ul>
-
-<h3>🏴 Cisco</h3>
-<ul>
-  <li>Certified Ethical Hacker <b>(CEH – Cisco)</b></li>
-  <li>Network Security</li>
-</ul>
-
-<h3>🏴 ISC2</h3>
-<ul>
-  <li>Certified in Cybersecurity <b>(CC)</b></li>
-  <li>Systems Security Certified Practitioner <b>(SSCP)</b></li>
-  <li>Systems and Application Security</li>
-  <li>Security Principles</li>
-  <li>Security: Aligning Asset and Risk Management</li>
-</ul>
-
 <hr/>
-
+<h2>🏴 Community & Global Security</h2>
+<ul>
+  <li><b>OWASP Foundation</b> — application security community and standards</li>
+  <li><b>UN IGF Policy Network on Cybersecurity & AI</b> — cybersecurity and AI governance discussions</li>
+  <li><b>Rewriting the Code</b> — mentorship and professional development</li>
+  <li><b>National Cybersecurity Student Association</b> — cybersecurity awareness and education</li>
+  <li><b>Croix-Rouge Française</b> — emergency readiness and community outreach</li>
+</ul>
+<hr/>
+<h2>🏴 Certifications & Training</h2>
+<p>
+ISC2 (CC, SSCP) • Microsoft AZ-500 • Fortinet • Splunk Search Expert • Google Cybersecurity • Red Team Leaders (CRTOM, Purple Team AD/AzureAD)
+</p>
+<hr/>
 <h2>🏴 Languages & Tools</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" height="42" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" height="42" />
 </p>
-
 <hr/>
-
-<h2>🏴 Current focus</h2>
+<h2>🏴 Current Focus</h2>
 <ul>
-  <li>ATT&CK → telemetry → detection → response → <b>retest loops</b></li>
-  <li>Detection quality over alert volume</li>
-  <li>Bridging technical security with governance, risk, and real-world impact</li>
+  <li>AI security and agent evaluation</li>
+  <li>Detection engineering and adversarial validation</li>
+  <li>Local-first AI tooling and workflow systems</li>
+  <li>Cloud governance and application security</li>
 </ul>
-
 <hr/>
-
-<h2>🏴 Not a resume — a signal</h2>
-<p>
-  I don’t chase coverage. I chase <b>proof</b>.<br/>
-  If a control can’t be validated and retested, it’s just a rumor.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashidaalexander&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidaalexander&theme=tokyonight&hide_border=true" />
 </p>
